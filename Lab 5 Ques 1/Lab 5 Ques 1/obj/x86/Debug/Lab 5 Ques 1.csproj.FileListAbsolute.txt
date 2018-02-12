@@ -1,0 +1,4 @@
+C:\Users\CZ 3\documents\visual studio 2010\Projects\Lab 5 Ques 1\Lab 5 Ques 1\bin\Debug\Lab 5 Ques 1.exe
+C:\Users\CZ 3\documents\visual studio 2010\Projects\Lab 5 Ques 1\Lab 5 Ques 1\bin\Debug\Lab 5 Ques 1.pdb
+C:\Users\CZ 3\documents\visual studio 2010\Projects\Lab 5 Ques 1\Lab 5 Ques 1\obj\x86\Debug\Lab 5 Ques 1.exe
+C:\Users\CZ 3\documents\visual studio 2010\Projects\Lab 5 Ques 1\Lab 5 Ques 1\obj\x86\Debug\Lab 5 Ques 1.pdb
